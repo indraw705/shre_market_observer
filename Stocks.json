@@ -1,0 +1,39 @@
+{"stocks":[
+    {"url":"JKTYRE", "name":"JKTyres", "refId" : "ref_4458694_l", "refIdPer" : "ref_4458694_cp"},
+    {"url":"LT", "name":"Larsens And Turbo", "refId" : "ref_2042500_l", "refIdPer" : "ref_2042500_cp"},
+    {"url":"INFY", "name":"Infosys", "refId" : "ref_675530_l", "refIdPer" : "ref_675530_cp"},
+    {"url":"TATAMOTORS", "name":"Tata Motors", "refId" : "ref_9708440_l","refIdPer" : "ref_9708440_cp"},
+    {"url":"ITC", "name":"ITC", "refId" : "ref_4153787_l","refIdPer" : "ref_4153787_cp"},
+    {"url":"TCS", "name":"TCS", "refId" : "ref_784961_l","refIdPer" : "ref_784961_cp"},
+    {"url":"SUNPHARMA", "name":"Sun Pharmaceutical Industries Limited", "refId" : "ref_677258_l","refIdPer" : "ref_677258_cp"},
+    {"url":"RELIANCE", "name":"Reliance Industries Limited", "refId" : "ref_4674509_l","refIdPer" : "ref_4674509_cp"},
+    {"url":"HDFC", "name":"HDFC", "refId" : "ref_787381_l","refIdPer" : "ref_787381_cp"},
+    {"url":"COALINDIA", "name":"Coal india", "refId" : "ref_16134436_l","refIdPer" : "ref_16134436_cp"},
+    {"url":"ONGC", "name":"ONGC", "refId" : "ref_674868_l","refIdPer" : "ref_674868_cp"},
+    {"url":"WIPRO", "name":"Wipro", "refId" : "ref_9055815_l","refIdPer" : "ref_9055815_cp"},
+    {"url":"BHARTIARTL", "name":"Airtel", "refId" : "ref_3626083_l","refIdPer" : "ref_3626083_cp"},
+    {"url":"SBIN", "name":"SBI", "refId" : "ref_13564339_l","refIdPer" : "ref_13564339_cp"},
+    {"url":"KOTAKBANK", "name":"Kotak Mahindra Bank", "refId" : "ref_678082_l","refIdPer" : "ref_678082_cp"},
+    {"url":"ICICIBANK", "name":"ICICI Bank Ltd", "refId" : "ref_16345036_l","refIdPer" : "ref_16345036_cp"},
+    {"url":"MARUTI", "name":"Maruti Suzuki India Ltd", "refId" : "ref_7152373_l","refIdPer" : "ref_7152373_cp"},
+    {"url":"AXISBANK", "name":"AXIS BANK", "refId" : "ref_3261730_l","refIdPer" : "ref_3261730_cp"},
+    {"url":"NTPC", "name":"NTPC", "refId" : "ref_6709566_l","refIdPer" : "ref_6709566_cp"},
+    {"url":"HCLTECH", "name":"HCL", "refId" : "ref_10627180_l","refIdPer" : "ref_10627180_cp"},
+    {"url":"IOC", "name":"IOC", "refId" : "ref_12588850_l","refIdPer" : "ref_12588850_cp"},
+    {"url":"ASIANPAINT", "name":"Asian Paint", "refId" : "ref_10538352_l","refIdPer" : "ref_10538352_cp"},
+    {"url":"LUPIN", "name":"Lupin", "refId" : "ref_10555516_l","refIdPer" : "ref_10555516_cp"},
+    {"url":"ULTRACEMCO", "name":"UltraTech Cement", "refId" : "ref_16255299_l","refIdPer" : "ref_16255299_cp"},
+    {"url":"POWERGRID", "name":"Power Grid Corpo", "refId" : "ref_3061589_l","refIdPer" : "ref_3061589_cp"},
+    {"url":"M%26M", "name":"M&M", "refId" : "ref_6565540_l","refIdPer" : "ref_6565540_cp"},
+    {"url":"INFRATEL", "name":"Infratel", "refId" : "ref_255437299298490_l","refIdPer" : "ref_255437299298490_cp"},
+    {"url":"INDUSINDBK", "name":"IndusInd bank", "refId" : "ref_12976119_l","refIdPer" : "ref_12976119_cp"},
+    {"url":"COLPAL", "name":"Colgate", "refId" : "ref_12883614_l","refIdPer" : "ref_12883614_cp"},
+    {"url":"BANKBARODA", "name":"Bank Of Baroda", "refId" : "ref_8677390_l","refIdPer" : "ref_8677390_cp"},
+    {"url":"PIDILITIND", "name":"Pidilite", "refId" : "ref_13880149_l","refIdPer" : "ref_13880149_cp"},
+    {"url":"YESBANK", "name":"YES BANK", "refId" : "ref_5674106_l","refIdPer" : "ref_5674106_cp"},
+    {"url":"GILLETTE", "name":"GILLETTE", "refId" : "ref_2889377_l","refIdPer" : "ref_2889377_cp"}
+    
+    
+    
+   
+]}
